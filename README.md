@@ -9,7 +9,7 @@ Tengo conocimientos en un lenguaje y varias herramientas que son:
 - CSS
 - Python
 - Selenium
-- FLask
+- Flask
 - Git y GitHub
 - MySQL
 
