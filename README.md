@@ -12,8 +12,9 @@ Tengo conocimientos en un lenguaje y varias herramientas que son:
 - Flask
 - Git y GitHub
 - MySQL
+- FastAPI
 
-Voy a paso lento pero seguro para poder convertirme en un excelente desarrollador, estudiando constantemente los conocimeintos ya adquiridos y con ganas de aprender muchos lenguajes y herramientas mas.
+Voy a paso lento pero seguro para poder convertirme en un excelente desarrollador, estudiando constantemente los conocimientos ya adquiridos y con ganas de aprender muchos lenguajes y herramientas mas.
 
 En mis tiempos libres me gusta jugar videojuegos, escuchar podcast y diseñar a traves de CAD.
 <!--
